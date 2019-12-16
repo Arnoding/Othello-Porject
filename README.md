@@ -16,6 +16,6 @@
   others attention
   ----
       * For different board sizes, some of our code names are same but the contents are different. In order not to cause confusion, we have put the codes for different board sizes in different repositories. Here is only the code summary of the 8x8 board. The parameter used is learning rate = 0.005
-      * thank you <br>
-        all best <br>
-        Ding <br>
+      * thank you 
+        all best 
+        Ding 
