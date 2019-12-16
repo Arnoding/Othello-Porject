@@ -12,6 +12,6 @@
       4.in the end to a game, a number will be displayed at the bottom like '812','2294' etc. this number is the sum of nodes have been checked during tree search.
   * others attention
       For different board sizes, some of our code names are same but the contents are different. In order not to cause confusion, we have put the codes for different board sizes in different repositories. Here is only the code summary of the 8x8 board. The parameter used is learning rate = 0.005
-   thank you
-   all best
-   Ding
+   * thank you
+   * all best
+   * Ding
