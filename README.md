@@ -16,6 +16,7 @@
   others attention
   ----
       * For different board sizes, some of our code names are same but the contents are different. In order not to cause confusion, we have put the codes for different board sizes in different repositories. Here is only the code summary of the 8x8 board. The parameter used is learning rate = 0.005
+      * For the training set, 8x8 data is got from website: https://i.cs.hku.hk/~kpchan/Othello/TrainingSet.html  For other other size board, we chaneg the data based on this data set.
       * thank you 
         all best 
         Ding 
